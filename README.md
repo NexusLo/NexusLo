@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">👋  Loic, enchanté 👋</h3>  Based in France, I'm an aspiring <strong>frontend developer</strong> who also feels drawn towards <strong>UX and UI design</strong><br>- ⚡ <strong>Former Civil engineer</strong> I have decided to become a web developper and pursue my ambitions <br>- 📚 I'm currently learning <strong>React, VueJS, and Express</strong> to stay up-to-date with the latest technologies <br>- 💪 French streetlifting vice-champion and regional powerlifting athlete <strong>( basically lives in a gym )</strong>  <br>- 🚧 I'm currently working on building my own company<br>- 👨🏻‍🦲 Andrew Tate is my spirit animal<br></p>
+<h3 align="center">👋  Loic, enchanté 👋</h3>  Based in France, I'm an aspiring <strong>frontend developer</strong> who also feels drawn towards <strong>UX and UI design</strong><br>- ⚡ <strong>Former Civil engineer</strong> I have decided to become a web developper and pursue my ambitions <br>- 📚 I'm currently learning <strong>React, VueJS, and Express</strong> to stay up-to-date with the latest technologies <br>- 💪 French streetlifting vice-champion and regional powerlifting athlete <strong>( basically lives in a gym )</strong>  <br>- 🚧 I'm currently working on building my own company<br>- 👨🏻‍🦲 Andrew Tate is my spirit animal<br>- 📬 Reach me at : loicdiakouka@yahoo.fr</p>
 
 
 ###
