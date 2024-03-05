@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="285" src="https://media.licdn.com/dms/image/D4D16AQHgsvXxAQr8KA/profile-displaybackgroundimage-shrink_350_1400/0/1697210371458?e=1715212800&v=beta&t=ERvIQSIRiOp1raWWO9CX_kQxBgipGqnIsyVMjaKFLEk"  />
+  <img src="https://github.com/NexusLo/NexusLo/blob/main/banni%C3%A8re_A.jpg"  />
 </div>
 
 ###
