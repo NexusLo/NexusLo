@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
+
   <img src="https://github.com/NexusLo/NexusLo/blob/main/banni%C3%A8re_A.jpg"  />
-</div>
+
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
