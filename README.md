@@ -1,5 +1,5 @@
-<h1 align="left">👋 Hi there, Loic Diakouka <br>💻 Design and development</h1>
-
+<h1 align="left">👋 Hi there, Loic Diakouka </h1>
+<h1 align="left"><br>💻 Design and development </h2>
 ###
 
 <div align="center">
