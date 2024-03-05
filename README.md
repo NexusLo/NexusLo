@@ -1,37 +1,27 @@
-<h1 align="left">👋 Hi there, Loic Diakouka<br>💻 Design and development  </h1>
+<img src="https://github.com/NexusLo/NexusLo/blob/main/banni%C3%A8re_A.jpg"  />
+
+###
+
+<h2 align="left">👩‍💻  About Me</h2>  </h1>
+  
+
+
+###
+
+<h3 align="center">👋  Loic, enchanté 👋</h3>  Based in France, I'm an aspiring <strong>frontend developer</strong> who also feels drawn towards <strong>UX and UI design</strong><br>- ⚡ <strong>Former Civil engineer</strong> I have decided to become a web developper and pursue my ambitions <br>- 📚 I'm currently learning <strong>React, VueJS, and Express</strong> to stay up-to-date with the latest technologies <br>- 💪 French streetlifting vice-champion and regional powerlifting athlete <strong>( basically lives in a gym )</strong>  <br>- 🚧 I'm currently working on building my own company<br>- 👨🏻‍🦲 Andrew Tate is my spirit animal<br></p>
+
 
 ###
 
 
-  <img src="https://github.com/NexusLo/NexusLo/blob/main/banni%C3%A8re_A.jpg"  />
-
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<p align="left">I'm Loic based in France, aspiring frontend developer who also feels drawn towards UX and UI design<br><br>- 📚 I'm currently learning React / VueJS / Express <br>- ⚡ In my free time I workout a lot as I'm a french streetlifting vice-champion and a regional powerlifting athlete <br>- 🚧 I'm currently working on building my own company</p>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Skills and Experience</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
